@@ -1,0 +1,10 @@
+# There are quite a few vim cheat sheets online, here is one example:
+https://vim.rtorr.com/
+
+# Interactive tutorials exist too! For example...
+http://www.openvim.com/
+
+# This site provides a narrative walking through the use of common vim commands:
+https://computers.tutsplus.com/tutorials/vim-for-beginners--cms-21118
+
+# Enjoy!
